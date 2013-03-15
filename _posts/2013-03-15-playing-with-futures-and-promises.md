@@ -8,4 +8,4 @@ tags: [clojure, parallel, fp]
 ---
 {% include JB/setup %}
 
-<script src="https://gist.github.com/alexguev/5173269.js"></script>
+LALALA
